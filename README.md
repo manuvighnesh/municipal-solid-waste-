@@ -1,4 +1,4 @@
-Smart Waste Management System
+# Smart Waste Management System
 This project is a web-based platform designed to encourage sustainable waste management practices by leveraging technology. The platform includes two primary features accessible from the main webpage:
 
 Main Webpage:
